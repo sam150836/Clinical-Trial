@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Lab Equipments" max_length="40" name="x_373865_clinical_lab_equipments" type="collection">
+        <element label="Description" max_length="1000" name="description" type="string"/>
+    </element>
+</database>
