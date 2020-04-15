@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Clinical Trials" max_length="40" name="x_373865_clinical_clinical_trials" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="STC Blueprint" max_length="40" name="stc_blueprint" type="string"/>
+        <element label="Test Update Set" max_length="100" name="test_update_set" type="string"/>
+    </element>
+</database>
